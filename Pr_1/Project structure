@@ -1,0 +1,11 @@
+/UserManagement
+    /DataAccessLayer
+        UserRepository.cs
+    /BusinessLogicLayer
+        UserService.cs
+    /PresentationLayer
+        Program.cs
+    /Models
+        User.cs
+    /Data
+        users.json
